@@ -1,2 +1,2 @@
-# projetos-c
- Exercícios e projetos desenvolvidos na disciplina de introdução à programação
+# Projetos C
+ Exercícios e projetos desenvolvidos na linguagem C
